@@ -3,4 +3,4 @@ Practice Material
 
 [Official Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
-:star2: [EDA on Titanic DataSet] (https://github.com/TarekDib03/titanic-EDA/blob/master/Titanic%20-%20Project.ipynb)
+:star2: [EDA on Titanic DataSet](https://github.com/TarekDib03/titanic-EDA/blob/master/Titanic%20-%20Project.ipynb)
