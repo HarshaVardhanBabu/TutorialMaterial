@@ -1,5 +1,6 @@
-# TutorialMaterial
-Practice Material
+# Tutorial material
+
+## Practice Material
 
 [Official Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
@@ -7,6 +8,6 @@ Practice Material
 
 :star: [EDA on Automobile DataSet](https://github.com/rushabh-mehta/EDA-on-Automobile-Dataset/blob/master/AutomobileEDA.ipynb)
 
-# DataScience project management
+# Maintaining Data Science Projects
 
 :zap: [ProjectStructure](https://drivendata.github.io/cookiecutter-data-science/)
