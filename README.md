@@ -6,3 +6,7 @@ Practice Material
 :star2: [EDA on Titanic DataSet](https://github.com/TarekDib03/titanic-EDA/blob/master/Titanic%20-%20Project.ipynb)
 
 :star: [EDA on Automobile DataSet](https://github.com/rushabh-mehta/EDA-on-Automobile-Dataset/blob/master/AutomobileEDA.ipynb)
+
+# DataScience project management
+
+:zap: [ProjectStructure](https://drivendata.github.io/cookiecutter-data-science/)
