@@ -11,3 +11,9 @@
 # Maintaining Data Science Projects
 
 :zap: [ProjectStructure](https://drivendata.github.io/cookiecutter-data-science/)
+
+# Understanding Bias and Variance Trade off
+
+:star2: [Bias Vs Variance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+
