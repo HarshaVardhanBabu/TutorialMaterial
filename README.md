@@ -16,4 +16,8 @@
 
 :star2: [Bias Vs Variance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
+# Central limit theorem
+
+:star: [Central limit theorem](http://demonstrations.wolfram.com/CentralLimitTheoremForTheContinuousUniformDistribution/)
+
 
