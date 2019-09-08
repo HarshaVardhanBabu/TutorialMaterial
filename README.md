@@ -20,4 +20,8 @@
 
 :star: [Central limit theorem](http://demonstrations.wolfram.com/CentralLimitTheoremForTheContinuousUniformDistribution/)
 
+# Cook's Distance
+
+:zap: [Cook's Distance](https://www.statisticshowto.datasciencecentral.com/cooks-distance/)
+
 
