@@ -24,4 +24,6 @@
 
 :zap: [Cook's Distance](https://www.statisticshowto.datasciencecentral.com/cooks-distance/)
 
+# Statistical course
 
+:+1: [StanfordCourse](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-self-paced)
