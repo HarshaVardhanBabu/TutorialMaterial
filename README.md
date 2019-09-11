@@ -24,6 +24,10 @@
 
 :star2: [Distance Metrics](https://numerics.mathdotnet.com/Distance.html)
 
+# Metrics to Evaluate Classifiers
+
+:star2: [Precision&Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+
 # Cook's Distance
 
 :zap: [Cook's Distance](https://www.statisticshowto.datasciencecentral.com/cooks-distance/)
