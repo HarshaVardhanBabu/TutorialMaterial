@@ -35,3 +35,7 @@
 # Statistical course
 
 :+1: [StanfordCourse](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-self-paced)
+
+# Introductory Text Book on Statistics
+
+:book: [Statistic Priciples & Methods](Stats-6th-Edition-by-Johnson-and-Bhattacharyya.pdf)
