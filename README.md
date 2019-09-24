@@ -39,3 +39,7 @@
 # Introductory Text Book on Statistics
 
 :book: [Statistic Priciples & Methods](Stats-6th-Edition-by-Johnson-and-Bhattacharyya.pdf)
+
+# Bigger dataset for LinearRegression
+
+:star: [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
