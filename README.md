@@ -40,9 +40,15 @@
 
 :book: [Statistic Priciples & Methods](Stats-6th-Edition-by-Johnson-and-Bhattacharyya.pdf)
 
-# Bigger dataset for LinearRegression
+# Project I -- LinearRegression
 
 :star: [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+# Project II -- Classification
+
+:star: [Titanic](https://www.kaggle.com/c/titanic/overview)
+
+:star2: [Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 
 # Using files in google colab
 
