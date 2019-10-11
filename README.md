@@ -43,3 +43,28 @@
 # Bigger dataset for LinearRegression
 
 :star: [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+# Using files in google colab
+
+To access files in google drive
+
+```
+from google.colab import drive
+drive.mount('/gdrive')
+%cd /gdrive
+```
+
+To upload files to google colab
+
+```
+from google.colab import files
+
+uploaded = files.upload()
+
+for fn in uploaded.keys():
+  print('User uploaded file "{name}" with length {length} bytes'.format(
+      name=fn, length=len(uploaded[fn])))
+```
+
+Or Other way is use the Files tab shown below to upload the files
+
