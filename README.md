@@ -66,6 +66,6 @@ for fn in uploaded.keys():
       name=fn, length=len(uploaded[fn])))
 ```
 
-![Or Other way is use the Files tab shown below to upload the files]
+Or Other way is use the Files tab shown below to upload the files
 
 <img src="https://github.com/HarshaVardhanBabu/TutorialMaterial/blob/master/Screenshot%202019-10-11%20at%208.14.32%20AM.png" />
