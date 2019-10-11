@@ -67,4 +67,4 @@ for fn in uploaded.keys():
 ```
 
 ![Or Other way is use the Files tab shown below to upload the files]
-(Screenshot 2019-10-11 at 8.14.32 AM.png)
+(https://github.com/HarshaVardhanBabu/TutorialMaterial/blob/master/Screenshot%202019-10-11%20at%208.14.32%20AM.png)
