@@ -16,6 +16,8 @@
 
 :star2: [Bias Vs Variance](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
+:star:[UnderFit Vs OverFit](https://github.com/WillKoehrsen/Data-Analysis/blob/master/over_vs_under/Over%20vs%20Under%20Fitting%20Example.ipynb)
+
 # Central limit theorem
 
 :star: [Central limit theorem](http://demonstrations.wolfram.com/CentralLimitTheoremForTheContinuousUniformDistribution/)
