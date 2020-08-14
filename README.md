@@ -77,3 +77,13 @@ for fn in uploaded.keys():
 Or Other way is use the Files tab shown below to upload the files
 
 <img src="https://github.com/HarshaVardhanBabu/TutorialMaterial/blob/master/Screenshot%202019-10-11%20at%208.14.32%20AM.png" />
+
+# Demo
+
+:+1: [Digit Recognition App](http://myselph.de/neuralNet.html)
+
+:+1: [TensorFlow Playground](https://playground.tensorflow.org/)
+
+:+1: [Dash SVM](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-svm)
+
+:+1: [Movie Recommendation tool](https://github.com/abd1007/Movie-Recommendation-System-Web-Application)
